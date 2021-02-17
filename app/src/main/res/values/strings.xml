@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Country App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="restaurants">Restaurants</string>
+    <string name="hospitals">Hospitals</string>
+    <string name="banks">Banks</string>
+    <string name="schools">Schools</string>
+    <string name="hotels">Hotels</string>
+    <string name="search">Search</string>
+
+</resources>
